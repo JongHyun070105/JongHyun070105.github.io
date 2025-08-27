@@ -22,23 +22,35 @@
 ## 📧 문의
 
 앱 사용 중 궁금한 점이나 비즈니스 문의가 있으시면 언제든지 연락 주세요.
+<<<<<<< HEAD
 
 - **이메일:** brian26492@gmail.com
+=======
+*   **이메일:** brian26492@gmail.com
+>>>>>>> 539934ddfb8e19f0f9b098c3c41764e5c4937e0b
 
 ---
 
 ## 🔒 개인정보처리방침
 
 저희 앱의 개인정보처리방침은 다음 링크에서 확인하실 수 있습니다.
+<<<<<<< HEAD
 
 - [개인정보처리방침 링크](https://www.freeprivacypolicy.com/live/bcd65e94-1f85-47fa-a2f5-8a76f8611ca3)
+=======
+*   [개인정보처리방침 링크](https://www.freeprivacypolicy.com/live/bcd65e94-1f85-47fa-a2f5-8a76f8611ca3)
+>>>>>>> 539934ddfb8e19f0f9b098c3c41764e5c4937e0b
 
 ---
 
 ## 📄 app-ads.txt
 
 저희 앱의 `app-ads.txt` 파일은 이 웹사이트의 루트 디렉토리에서 접근 가능합니다.
+<<<<<<< HEAD
 
 - https://jonghyun070105.github.io/jonghyun.github.io/app-ads.txt
+=======
+*   https://jonghyun070105.github.io/jonghyun.github.io/app-ads.txt
+>>>>>>> 539934ddfb8e19f0f9b098c3c41764e5c4937e0b
 
 ---
