@@ -1,6 +1,6 @@
-# jonghyun.github.io
+# JongHyun070105.github.io
 
-# [JongHyun] - 앱 포트폴리오
+# [JongHyun070105] - 앱 포트폴리오
 
 안녕하세요! JongHyun입니다. 제가 개발한 모바일 앱들을 소개합니다.
 
